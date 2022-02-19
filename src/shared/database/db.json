@@ -1,0 +1,102 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Then She Was Gone",
+      "author": "Lisa Jewell",
+      "category": "Drama",
+      "isbn": 1111111179
+    },
+    {
+      "id": 2,
+      "title": "Me Talk Pretty One Day",
+      "author": "David Sedaris",
+      "category": "Comedy",
+      "isbn": 2222222222
+    },
+    {
+      "id": 3,
+      "title": "Hare House",
+      "author": "Sally Hinchcliffe",
+      "category": "Fiction",
+      "isbn": 3333333333
+    },
+    {
+      "id": 4,
+      "title": "The Pumpkin Eater",
+      "author": "Penelope Mortimer",
+      "category": "Comedy",
+      "isbn": 4444444444
+    },
+    {
+      "id": 5,
+      "title": "Before We Were Yours",
+      "author": "Lisa Wingate",
+      "category": "Drama",
+      "isbn": 5555555555
+    },
+    {
+      "id": 6,
+      "title": "A Time Outside This Time",
+      "author": "Amitava Kumar",
+      "category": "Fiction",
+      "isbn": 6666666666
+    },
+    {
+      "id": 7,
+      "title": "The Wilderness",
+      "author": "Sandra Lim",
+      "category": "Poetry",
+      "isbn": 7777777777
+    },
+    {
+      "id": 8,
+      "title": "Where the Crawdads",
+      "author": "Delia Owens",
+      "category": "Drama",
+      "isbn": 8888888888
+    },
+    {
+      "id": 9,
+      "title": "Invisible",
+      "author": "Danielle Steel",
+      "category": "Fiction",
+      "isbn": 9999999999
+    },
+    {
+      "id": 10,
+      "title": "Soft Science",
+      "author": "Franny Choi",
+      "category": "Poetry",
+      "isbn": 1010101010
+    },
+    {
+      "id": 11,
+      "title": "Love in A Cold Climate",
+      "author": "Nancy Mitford",
+      "category": "Comedy",
+      "isbn": 1110111011
+    },
+    {
+      "id": 12,
+      "title": "Plainwater ",
+      "author": "Anne Carson",
+      "category": "Poetry",
+      "isbn": 1212121212
+    },
+    {
+      "title": "The Young King",
+      "author": "Niklaus Mikaelson",
+      "isbn": 1111881116,
+      "category": "Drama",
+      "id": 13
+    },
+    {
+      "title": "The Littlest Wolf",
+      "author": "Klaus Mikaelson",
+      "isbn": 1112224456987,
+      "category": "Poetry",
+      "id": 14
+    }
+  ]
+}

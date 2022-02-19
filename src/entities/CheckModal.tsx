@@ -29,6 +29,7 @@ const CheckModal: FC<IProps> = ({
       centered
     >
       <Modal.Body>{children}</Modal.Body>
+
       <Modal.Footer className="ds-flex flex-row justify-content-evenly">
         <Button
           variant="danger"
@@ -41,6 +42,7 @@ const CheckModal: FC<IProps> = ({
         >
           Ok
         </Button>
+
         <Button variant="secondary" onClick={() => setModalShow(false)}>
           Cancel
         </Button>

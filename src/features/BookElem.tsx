@@ -14,6 +14,7 @@ const BookElem: FC<IBookElem> = ({ book }) => {
       <td>{book.author}</td>
       <td className="text-center">{book.category}</td>
       <td className="text-center">{book.isbn}</td>
+
       <td className="text-center">
         <Buttons bookId={book.id} />
       </td>

@@ -3,14 +3,14 @@ import { Button } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 
 import { Context } from "app";
-import Inputs from "../../features/Inputs";
+import Inputs from "../features/Inputs";
 import { addBook } from "shared/api/addBook";
-import { formData } from "../../shared/lib/formData";
+import { formData } from "../shared/lib/formData";
 import { markEmptyFiels } from "shared/lib/markEmptyFields";
 import { DASHBOARD_ROUTE } from "shared/paths";
-import SuccessModal from "../../entities/SuccessModal";
+import SuccessModal from "../entities/SuccessModal";
 
-import { Header, StyledContainer } from "../styles";
+import { Header, StyledContainer } from "./styles";
 
 const AddBook = () => {
   const record = useContext(Context)?.record;
